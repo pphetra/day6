@@ -3,4 +3,4 @@
 - [keycloak](keycloak.md)
 - [Secure pages](secure_page.md)
 - [Global state](global_state.md)
-- [crud](CRUD)
+- [crud](crud.md)
